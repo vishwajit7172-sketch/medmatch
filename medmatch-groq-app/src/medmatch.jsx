@@ -16,7 +16,7 @@ const HOSPITAL = {
   },
 };
 
-const ADMIN_PASSWORD = "medmatch2024";
+const ADMIN_PASSWORD = "vishu@2905";
 
 const SYMPTOMS = [
   { id: "chest",   label: "Chest Pain",          icon: "🫀", dept: "cardiology",       tests: ["ECG", "Troponin Blood Test", "Echocardiogram", "Lipid Profile"] },
