@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 
 const HOSPITAL = {
-  name: "Apex Multispeciality Hospital",
+  name: "Hospitals will be added in future update",
   departments: {
     cardiology:       { label: "Cardiology",      available: true,  doctors: [], slots: "" },
     neurology:        { label: "Neurology",        available: true,  doctors: [], slots: "" },
